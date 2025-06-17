@@ -1,5 +1,5 @@
 # 🔐 Objective Quest – Network Traffic Classification with ExtraTrees  
-🏆 Kaggle Competition | Dataquest 2024 – COMPFEST UI  
+🏆 Kaggle Competition | Dataquest 2024 
 📊 Final Rank: **43rd out of 88 teams**
 
 This project was developed for the **Objective Quest** competition held during **Dataquest 2024**, focusing on building a reliable and reproducible machine learning pipeline to classify **network traffic behavior** for cybersecurity applications.
