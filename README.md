@@ -1,4 +1,4 @@
-# 🔐 Objective Quest – Network Traffic Classification with ExtraTrees  
+# Objective Quest – Network Traffic Classification with ExtraTrees  
 🏆 Kaggle Competition | Dataquest 2024 
 📊 Final Rank: **43rd out of 88 teams**
 
