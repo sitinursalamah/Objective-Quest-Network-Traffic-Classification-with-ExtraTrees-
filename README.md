@@ -1,4 +1,4 @@
-# Objective Quest – Network Traffic Classification with ExtraTrees  
+# Multiclass Network Traffic Classification for Cyber Threat Detection
 🏆 Kaggle Competition | Dataquest 2024 
 📊 Final Rank: **43rd out of 88 teams**
 
